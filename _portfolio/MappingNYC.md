@@ -1,6 +1,6 @@
 ---
 title: "MappingNYC: A Large-scale Multi-modality Dataset for Street Views in New York City"
-subtitle:"AI4CE Lab, New York University"
+#subtitle:"AI4CE Lab, New York University"
 excerpt: "Replica of Robotis OP3. <br/><br/><img src='/images/Shadow_Ghost.jpg'>"
 date: 2024-04-10
 collection: portfolio
