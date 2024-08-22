@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Govind Aadithya Rajagopalan"
+title                    : "Niranjan Sujay"
 title_separator          : "-"
-name                     : &name "Govind Aadithya Rajagopalan"
+name                     : &name "Niranjan Sujay"
 description              : &description ""
-url                      : https://govind-aadithya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://niranjan-sujay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "govind-aadithya.github.io"
+repository               : "niranjan-sujay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Govind Aadithya Rajagopalan"
+  name             : "Niranjan Sujay"
   avatar           : "MyPhoto.png"
   bio              : ""
   location         : "Brooklyn, New York"
   employer         :
   pubmed           : #""
-  googlescholar    : "https://scholar.google.com/citations?user=kmtMXKgAAAAJ&hl=en"
-  email            : "govindaadithya.rajagopalan@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Govind-Aadithya-Rajagopalan"
+  email            : "niranjan.sujay@nyu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "govind-aadithya"
+  github           : "SujayNiranjan"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "govindaadithya31197"
-  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0001-7490-2822"
+  linkedin         : "https://www.linkedin.com/in/niranjan-sujay/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -255,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
